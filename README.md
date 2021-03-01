@@ -1,3 +1,9 @@
-# Bus Station App
+## Bus Station App
 
-#### Back-End is developed using Spring Boot Framework, while Front-End is developed using React.js.
+### Full Stack Application with Spring Boot and React.
+
+#### Required Tools
+- Java 8+
+- Eclipse
+- Node.js
+- Visual Studio Code
