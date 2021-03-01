@@ -3,7 +3,8 @@
 ### Full Stack Application with Spring Boot and React.
 
 #### Required Tools
-- Java 8+
-- Eclipse
-- Node.js
-- Visual Studio Code
+- Java v8+
+- IDE (e.g. Eclipse)
+- Node.js v14+
+- Code Editor (e.g. Visual Studio Code)
+- Browser (e.g. Mozilla Firefox)
